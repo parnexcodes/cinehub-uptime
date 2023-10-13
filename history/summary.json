@@ -4,17 +4,19 @@
     "url": "https://cinehub.wtf",
     "icon": "https://icons.duckduckgo.com/ip3/cinehub.wtf.ico",
     "slug": "cinehub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 847,
-    "timeDay": 868,
-    "timeWeek": 847,
-    "timeMonth": 847,
-    "timeYear": 847,
-    "dailyMinutesDown": {}
+    "time": 807,
+    "timeDay": 675,
+    "timeWeek": 807,
+    "timeMonth": 807,
+    "timeYear": 807,
+    "dailyMinutesDown": {
+      "2023-10-13": 0
+    }
   }
 ]
